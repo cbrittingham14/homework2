@@ -11,6 +11,7 @@ It is built using Bootstrap's responsive features to allow different appearances
 ![contacts large](/assets/images/contact-lg.png)
 ![portfolio small](/assets/images/portfolio-sm.png)
 ![portfolio large](/assets/images/portfolio-lg.png)
+![screenshot](/assets/images/screenshot3.png)
 
 ## Acknowledgements
 
